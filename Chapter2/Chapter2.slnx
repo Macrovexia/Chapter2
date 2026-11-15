@@ -1,8 +1,10 @@
 <Solution>
+  <Project Path="BillingCalculator/BillingCalculator.csproj" Id="3dbc9547-2b64-4923-86d9-ba1eae50feca" />
   <Project Path="Chapter2.Shared/Chapter2.Shared.csproj" Id="2673f7cb-2a5d-4ae8-ab4b-aeca3c951366" />
   <Project Path="Chapter2/Chapter2.csproj" />
   <Project Path="DiceRollGame/DiceRollGame.csproj" Id="5551f9a9-7655-43aa-bf28-a7e3d42817ff" />
   <Project Path="GetKeyInputArguments/GetKeyInputArguments.csproj" Id="4412639e-f1b0-4029-a9ef-f24529e0175f" />
+  <Project Path="GuessTheNumberGame/GuessTheNumberGame.csproj" Id="eb522534-608c-4e92-94a2-9a9b60d3b4ad" />
   <Project Path="InferringValueTypes/InferringValueTypes.csproj" Id="d1c87dec-4353-4162-a06c-5252870be7ad" />
   <Project Path="NullableValueTypes/NullableValueTypes.csproj" Id="fed8c8e3-b3e6-43c2-aa5a-5570cc52c18f" />
   <Project Path="NumberAndDateFormatConsoleApp/NumberAndDateFormatConsoleApp.csproj" Id="f96c7b2f-d1d4-4372-9841-b94220120e6a" />
@@ -11,6 +13,8 @@
   <Project Path="StoringReferenceTypes/StoringReferenceTypes.csproj" Id="c92b5df9-1f62-43ef-b3b9-cbe41354e6d3" />
   <Project Path="StringFormatting/StringFormatting.csproj" Id="0ee8312d-4328-402b-8fbc-3104b4e8824f" />
   <Project Path="SubscriptionRenewal/SubscriptionRenewal.csproj" Id="f5d7ab77-2fbc-470b-84d7-563b5c3c4a69" />
+  <Project Path="TextReadWriter/TextReadWriter.csproj" Id="a5f536ef-d8fa-430a-91e4-3602f9c5fb00" />
   <Project Path="TipCalculator/TipCalculator.csproj" Id="64834289-1537-4347-91b3-12a0dbb2b1c3" />
+  <Project Path="Top5Leaderboard/Top5Leaderboard.csproj" Id="094cfa5f-6454-482b-9bce-59659acac26d" />
   <Project Path="VariableFoundation/VariableFoundation.csproj" Id="3b6334e9-68c7-4df2-8675-f3230179fe08" />
 </Solution>
