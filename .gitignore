@@ -38,3 +38,11 @@
 /Chapter2/SubscriptionRenewal/obj
 /Chapter2/TipCalculator/bin/Debug/netcoreapp3.1
 /Chapter2/TipCalculator/obj
+/Chapter2/BillingCalculator/bin/Debug/netcoreapp3.1
+/Chapter2/BillingCalculator/obj
+/Chapter2/GuessTheNumberGame/bin/Debug/netcoreapp3.1
+/Chapter2/GuessTheNumberGame/obj
+/Chapter2/TextReadWriter/bin/Debug/netcoreapp3.1
+/Chapter2/TextReadWriter/obj
+/Chapter2/Top5Leaderboard/bin/Debug/netcoreapp3.1
+/Chapter2/Top5Leaderboard/obj
